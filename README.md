@@ -1,7 +1,3 @@
-Here's a detailed project description you can use for your GitHub repository:
-
----
-
 # SGPA and CGPA Calculator
 
 This Python-based project is an academic grading system calculator designed to compute SGPA (Semester Grade Point Average) and CGPA (Cumulative Grade Point Average) for students. It takes the marks of theory, practical, and external subjects as input, calculates corresponding grades, and outputs the SGPA for each semester and the final CGPA.
@@ -63,11 +59,6 @@ CGPA across all semesters: 8.25
 4. **SGPA Calculation**: The SGPA is calculated as the sum of all grade points multiplied by their corresponding credit points, divided by the total credit points.
 5. **CGPA Calculation**: After multiple semesters, the CGPA is calculated as the average of all semester SGPAs.
 
-## Requirements
-
-- Python 3.x
-
-No external libraries are required as the project only uses built-in Python functions.
 
 ## Future Improvements
 
@@ -83,6 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
----
 
-This description is designed to provide a comprehensive overview of your project, explain how it works, and invite others to contribute. You can adjust the details as needed for your specific use case.
